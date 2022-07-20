@@ -59,12 +59,13 @@
 
         static void Main(string[] args)
         {
-            Console.Write("Введите номер задачи: ");
-            int N = Convert.ToInt32(Console.ReadLine());
+
             Boolean IsOutOfLoop = true;
 
             do
             {
+                Console.Write("Введите номер задачи: ");
+                int N = Convert.ToInt32(Console.ReadLine());
                 IsOutOfLoop = true;
                 switch (N)
                 {

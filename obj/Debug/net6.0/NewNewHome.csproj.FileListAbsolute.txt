@@ -1,0 +1,15 @@
+D:\GITREPOSITORI\GeekBrains\NewNewHome\bin\Debug\net6.0\NewNewHome.exe
+D:\GITREPOSITORI\GeekBrains\NewNewHome\bin\Debug\net6.0\NewNewHome.deps.json
+D:\GITREPOSITORI\GeekBrains\NewNewHome\bin\Debug\net6.0\NewNewHome.runtimeconfig.json
+D:\GITREPOSITORI\GeekBrains\NewNewHome\bin\Debug\net6.0\NewNewHome.dll
+D:\GITREPOSITORI\GeekBrains\NewNewHome\bin\Debug\net6.0\NewNewHome.pdb
+D:\GITREPOSITORI\GeekBrains\NewNewHome\obj\Debug\net6.0\NewNewHome.csproj.AssemblyReference.cache
+D:\GITREPOSITORI\GeekBrains\NewNewHome\obj\Debug\net6.0\NewNewHome.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITREPOSITORI\GeekBrains\NewNewHome\obj\Debug\net6.0\NewNewHome.AssemblyInfoInputs.cache
+D:\GITREPOSITORI\GeekBrains\NewNewHome\obj\Debug\net6.0\NewNewHome.AssemblyInfo.cs
+D:\GITREPOSITORI\GeekBrains\NewNewHome\obj\Debug\net6.0\NewNewHome.csproj.CoreCompileInputs.cache
+D:\GITREPOSITORI\GeekBrains\NewNewHome\obj\Debug\net6.0\NewNewHome.dll
+D:\GITREPOSITORI\GeekBrains\NewNewHome\obj\Debug\net6.0\refint\NewNewHome.dll
+D:\GITREPOSITORI\GeekBrains\NewNewHome\obj\Debug\net6.0\NewNewHome.pdb
+D:\GITREPOSITORI\GeekBrains\NewNewHome\obj\Debug\net6.0\NewNewHome.genruntimeconfig.cache
+D:\GITREPOSITORI\GeekBrains\NewNewHome\obj\Debug\net6.0\ref\NewNewHome.dll
